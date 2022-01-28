@@ -1,4 +1,5 @@
 {
-  "kitikaters",
-  "Player1"
+  "PlayerName": "kitikaters",
+  "Reason": "Test",
+  "Time": "2 Years"
 }
